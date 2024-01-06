@@ -1,14 +1,21 @@
-body{
-    background: papayawhip;
-    color: black;
+p{
+    background-color: #6cf436;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
-span {
-    
-        background-color: #f44336;
-        color: white;
-        padding: 14px 13px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        background-color: red;
-      }
+div{
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+img {
+ background-color: #f2b35b;
+ padding: 20px;
+ 
+  }
