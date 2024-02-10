@@ -6,7 +6,7 @@ a
 
 a:hover
 {
-  color:rgb(73, 205, 242);
+  color:rgb(185, 29, 29);
 }
 
 .homeP{
@@ -39,7 +39,7 @@ img{
   align-items: center;
 }
 li{
-font-size: 20px;
+font-size: 25px;
 }
 h1{
   font-size: 50px;
