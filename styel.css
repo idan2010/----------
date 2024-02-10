@@ -1,5 +1,11 @@
-div
-{
+div{
   display: block;
-  background-origin: padding-box;
+  background: black;
+  color: white;
+  width: 30px;
+  padding: 10px;
 }
+body{
+  
+}
+
